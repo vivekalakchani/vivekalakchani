@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viveka Lakchani</h1>
-<h3 align="center">An undergraduate student at the University of Sri Jayewardenepura</h3>
+<h3 align="center">An graduate student at the University of Sri Jayewardenepura</h3>
 
 
 
